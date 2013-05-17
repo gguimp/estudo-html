@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cupons",
+				"cuponsfiscais"
+			],
+			[
+				"cod",
+				"cod_prod"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"Set Syntax: sq",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Desenvolvimento/aptana/estudo-html/exerc-14.html",
+		"/F/Desenvolvimento/aptana/estudo-html/exerc-14.css",
+		"/F/Sistemas - 1.x/head_versao.rc",
+		"/C/Users/Gustavo/Desktop/erro01_16-05-2013.txt",
+		"/F/Desenvolvimento/Sistemas/Exata Desenvolvimento/2013-05-16_sql_monitor.log",
+		"/C/Users/Gustavo/Downloads/PL_CTe_104c_NT2013.004/PL_CTe_104c_NT2013.004/cteTiposBasico_v1.04.xsd",
+		"/C/Users/Gustavo/Downloads/PL_CTe_104c_NT2013.004/PL_CTe_104c_NT2013.004/cteModalRodoviario_v1.04.xsd",
+		"/F/Sistemas - 1.x/Exata Desenvolvimento/CT-e/Fila_CT-e/31130502098249000107570000000000051000000052-cte.xml",
+		"/F/Desenvolvimento/Sistemas/Banco de Dados/alterações_db_exata_03-2010.txt",
+		"/F/Sistemas - 1.x/Banco de Dados/alterações_db_exata_03-2010.txt",
+		"/F/Sistemas - 1.x/Banco de Dados/atualizações BD/000000017 - versão 1.1.52.0.txt",
+		"/C/Users/Gustavo/AppData/Roaming/Thunderbird/Profiles/sg35pzt5.default/ImapMail/imap.exatasoftware.com/Trash.msf",
+		"/C/Users/Gustavo/AppData/Roaming/Thunderbird/Profiles/sg35pzt5.default/prefs.js",
+		"/F/Sistemas - Estável/Exata Desenvolvimento/CT-e/Fila_CT-e/31130502098249000107570000000000051000000052-cte.xml",
+		"/C/Users/Gustavo/Desktop/sql produtos.sql",
+		"/C/Users/Gustavo/Desktop/sql produtos 2.sql",
+		"/F/Desenvolvimento/aptana/estudo-html/exerc-10.html",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/InfImpVendasProdutos.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/InfImpVendasProdutos.pas",
+		"/C/Users/Gustavo/Downloads/bootstrap/bootstrap/js/bootstrap.js",
+		"/C/Users/Gustavo/Desktop/teste.txt",
+		"/C/Users/Gustavo/Desktop/Correção RMI.txt",
+		"/C/Users/Gustavo/Desktop/backup.sql",
+		"/C/Users/Gustavo/Desktop/sql produtos",
+		"/F/Desenvolvimento/Sistemas/BDdump.bat",
+		"/C/Users/Gustavo/Desktop/teste_SINTEGRA.txt",
+		"/C/Users/Gustavo/Desktop/ESPELHO.TXT",
+		"/C/Users/Gustavo/Desktop/cupom 001126 - ECF 02.txt",
+		"/C/Users/Gustavo/Desktop/sql correção cupom fiscal.sql",
+		"/F/Sistemas - Estável/head_versao.rc",
+		"/C/Users/Gustavo/Desktop/cupom 001126 - ECF 02",
+		"/C/Users/Gustavo/Desktop/produtos SINTEGRA.txt",
+		"/F/Desenvolvimento/Sistemas/Banco de Dados/BD-estrutura.sql",
+		"/F/Desenvolvimento/Sistemas/Banco de Dados/BD-dadosiniciais.sql",
+		"/F/Desenvolvimento/Sistemas/build_instalador_teste.bat",
+		"/F/Desenvolvimento/Sistemas/pre_build.bat",
+		"/F/Desenvolvimento/Sistemas/build_instalador.bat",
+		"/F/Desenvolvimento/Sistemas/pos_build.bat",
+		"/F/Desenvolvimento/Sistemas/configacbr.bat",
+		"/C/teste_exata.sql",
+		"/F/Desenvolvimento/Sistemas/build.bat",
+		"/C/Users/Gustavo/Downloads/HTMLReporter/Copy of HTMLReporter/Designer/Templates/00-Blank File.html",
+		"/C/Users/Gustavo/Downloads/HTMLReporter/Copy of HTMLReporter/Designer/Templates/04-Listing.html",
+		"/C/Users/Gustavo/Downloads/HTMLReporter/Copy of HTMLReporter/Designer/Templates/03-Worksheet.html",
+		"/F/Desenvolvimento/Sistemas/Banco de Dados/alterações_bd/branches_2.0.0.txt",
+		"/F/servidores/mariadb/COPYING.LESSER",
+		"/F/servidores/mariadb/COPYING",
+		"/F/servidores/mariadb/share/portuguese/errmsg.sys",
+		"/C/Windows/my.ini",
+		"/F/Desenvolvimento/Sistemas/Manutenção/Atualizar BD 2.0/Principal.dfm",
+		"/F/servidores/wamp/wamp/www/tl-exata/config.inc.php",
+		"/F/servidores/wamp/wamp/www/tl-exata/config_db.inc.php",
+		"/C/ProgramData/MySQL/MySQL Server 5.5/data/aria_log.00000001",
+		"/F/Desenvolvimento/Sistemas/Instalador/Exata.iss",
+		"/F/servidores/wamp/wamp/wampmanager.ini",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/PesquisaCuponsFiscais.pas",
+		"/F/Desenvolvimento/Sistemas/Manutenção/Atualizar BD 2.0/SQL.Erro.sql",
+		"/C/Program Files/MySQL/MySQL Server 5.5/my.ini",
+		"/F/servidores/mariadb/data/my.ini",
+		"/C/Users/Gustavo/Documents/estudo-html/exercicio-02.html",
+		"/C/Users/Gustavo/Downloads/bootstrap/teste.html",
+		"/C/Users/Gustavo/Downloads/bootstrap/index.html",
+		"/C/Users/Gustavo/chaves/id_rsa.pub",
+		"/F/servidores/wamp/wamp/www/wiki/skins/common/commonContent.css",
+		"/F/servidores/wamp/wamp/www/wiki/skins/common/commonElements.css",
+		"/F/servidores/wamp/wamp/www/wiki/skins/common/commonPrint.css",
+		"/F/servidores/wamp/wamp/www/wiki/skins/common/config.js",
+		"/F/servidores/wamp/wamp/www/wiki/skins/vector/screen.css",
+		"/F/servidores/wamp/wamp/www/wiki/skins/vector/csshover.htc",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CalcJuros.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CalcJuros.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CadCliente.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CadCliente.pas",
+		"/C/Program Files/Inno Setup 5/Examples/CodeDll.iss",
+		"/C/Users/Gustavo/Desktop/Desktop/RM018935.R",
+		"/C/OPaf/MONITORA/REMESSA/RM000633.R",
+		"/C/OPaf/MONITORA/REMESSA/RM000632.R",
+		"/C/OPaf/MONITORA/REMESSA/RM000629.L01",
+		"/C/OPaf/MONITORA/REMESSA/RM000628.L01",
+		"/C/OPaf/MONITORA/REMESSA/RM000623.R",
+		"/C/OPaf/MONITORA/REMESSA/RM000616.R",
+		"/C/OPaf/MONITORA/REMESSA/RM000620.R",
+		"/C/OPaf/MONITORA/REMESSA/RM000620.L01",
+		"/F/Sistemas - 2.0.0/Exata/Fontes/Units/TabelaEstoque.dfm",
+		"/C/Users/Gustavo/Desktop/estoque empresa.sql",
+		"/C/Users/Gustavo/Desktop/problemasintegrao/RM018934.R",
+		"/C/Users/Gustavo/Desktop/problemasintegrao/RM018934.L02",
+		"/C/Users/Gustavo/Desktop/problemasintegrao/msg idbrasil",
+		"/C/Users/Gustavo/Desktop/outro teste.sql",
+		"/C/Users/Gustavo/Desktop/PROCEDURE.sql",
+		"/C/Users/Gustavo/Desktop/exemplo pivot table.sql",
+		"/C/Users/Gustavo/Desktop/subselect.sql",
+		"/C/Users/Gustavo/Desktop/teste procedure.sql",
+		"/C/Users/Gustavo/Desktop/teste SINTEGRA_2.txt",
+		"/C/Users/Gustavo/Desktop/Buda2.txt",
+		"/C/Users/Gustavo/Desktop/teste_2.txt",
+		"/F/Desenvolvimento/Sistemas/Exata Desenvolvimento/SPED/PISCOFINS/SPED_PISCOFINS 01-02-2013 - 28-02-2013.txt",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/SaldoHoras.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/SaldoHoras.pas",
+		"/C/Users/Gustavo/Dropbox/dropbox-python-sdk-1.5.1/example/web_upload_app.py",
+		"/C/Users/Gustavo/Dropbox/dropbox-python-sdk-1.5.1/example/cli_client.py",
+		"/C/Users/Gustavo/Desktop/log_2013-03-12.log",
+		"/C/Users/Gustavo/Desktop/log_2013-03-11.log",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/DocumentosDescontar.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/DocumentosDescontar.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ControleIcms.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ControleIcms.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcConferenciaFechamentos.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcConferenciaFechamentos.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcCPGerencial.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcCPGerencial.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcCRGerencial.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcCRGerencial.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/InfRelCartaFreteMotorista.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/InfRelCartaFreteMotorista.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CartaFreteGerencial.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CartaFreteGerencial.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcRelatoriosVeiculos.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcRelatoriosVeiculos.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcRelatorios.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/CtrcRelatorios.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ExportaProceda.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ExportaProceda.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ExportacaoContmatic.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ExportacaoContmatic.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ExportacaoLedware.pas",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/ExportacaoLedware.dfm",
+		"/F/Desenvolvimento/Sistemas/Exata/Fontes/Units/TabelaEdicaoCtrc.dfm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vTotTrib",
+			"veic",
+			"<?",
+			"renavam",
+			"trash",
+			"uforigem",
+			"***************************************************************************************",
+			"TZReadOnlyQ",
+			"hipercad",
+			"exception",
+			"exceptions",
+			"client",
+			"mysql",
+			"EdDataini",
+			"edPercMulta",
+			"edJurosAutomatico",
+			"edTaxaJuros",
+			"dbeRenda",
+			"dbeSala",
+			"gustavo",
+			"00102098249000107REM200320131710410000008",
+			"edValor",
+			"unit",
+			"eddata",
+			"edDataIni",
+			"edDataini",
+			"dbeKmInicia",
+			"dbeKm",
+			"dbeDataInicio",
+			"dbeHoraTerminoCarrega",
+			"dbeHoraInicioCarregamento",
+			"dbeDataInicioCarregamento",
+			"dbeHoraInicioCarr",
+			"dbeDataini",
+			"dbeDataSa",
+			"dbeIcmsret",
+			"object",
+			"dbeHora",
+			"dbeData",
+			"TDateEdit",
+			"TDateEdi",
+			"dbeHoraRetorno",
+			"dbeHoraSaida",
+			"TDateEdit",
+			"eddataini",
+			"unit",
+			"eddata",
+			"unit",
+			"dbedata",
+			"eddata",
+			"eddataini",
+			"unit",
+			"eddataini",
+			"eddatain",
+			"eddataini",
+			"dbeData",
+			"dbeHoratermino",
+			"dbeHoraINicio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
